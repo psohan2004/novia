@@ -1,0 +1,1203 @@
+{
+  "metadata": {
+    "reportObjective": "Create a comprehensive knowledge base for a chatbot covering latest seasonal fashion trends, outfit styling guidelines, and interior design themes.",
+    "creationDate": "2025-07-12"
+  },
+  "fashionTrends": {
+    "overarchingThemes2025": [
+      {
+        "theme": "Personal Style & Individuality",
+        "description": "A significant shift towards embracing unique personal style, moving beyond rigid 'cores' and investing in pieces that genuinely resonate with one's lifestyle."
+      },
+      {
+        "theme": "Comfort & Fluidity",
+        "description": "A pervasive sense of ease and laid-back charm, defined by relaxed silhouettes, softer fabrics, and versatile pieces."
+      },
+      {
+        "theme": "Sustainability & Responsibility",
+        "description": "A cultural reset led by Gen Z and Millennials, prioritizing fashion that is stylish, responsible, and ethically manufactured using mindful materials."
+      },
+      {
+        "theme": "Nostalgia & Retro Revival",
+        "description": "Strong comebacks from various decades ('50s, '60s, '70s, '80s, '90s, Y2K), reinterpreted with modern twists in prints, silhouettes, and accessories."
+      },
+      {
+        "theme": "Maximalism vs. Meaningful Minimalism",
+        "description": "A resurgence of maximalism through lavish prints and expressive aesthetics, alongside a desire for 'meaningful minimalism' focused on thoughtful curation and unique, elevated details."
+      }
+    ],
+    "seasonalTrends2025": {
+      "spring": [
+        {
+          "name": "60s Sorbet Pastels",
+          "description": "A palette featuring shades like pistachio, lavender, and cornflower blue, focusing on textures like tweed, neoprene, or linen.",
+          "stylingTips": "Keep prints minimal and accessorize with classic gold or silver."
+        },
+        {
+          "name": "Oversized Blazers",
+          "description": "Structured yet relaxed blazers in pastel tones are a key item for a chic office look.",
+          "stylingTips": "Pair with a white crop top and tailored pants."
+        },
+        {
+          "name": "Flowy Maxi Dresses",
+          "description": "Airy, floral-printed dresses for casual, romantic vibes.",
+          "stylingTips": "Style with white sneakers for a modern look."
+        },
+        {
+          "name": "Wide-Leg Trousers",
+          "description": "Comfortable yet polished pants that are highly versatile.",
+          "stylingTips": "Pair well with cropped tops and blouses."
+        },
+        {
+          "name": "Layered Cardigans",
+          "description": "Lightweight cardigans offering effortless elegance.",
+          "stylingTips": "Layer over a satin slip dress."
+        }
+      ],
+      "summer": [
+        {
+          "name": "Coastal Cool / Sea La Vie",
+          "description": "A mix of nautical style and East Coast prep, including Breton stripes, sailor flares, boat shoes, and shell jewelry. Also includes a 'fisherman aesthetic' with marinière stripes and cable-knit sweaters.",
+          "stylingTips": "Incorporate gold buttons, nautical netting, or fish-shaped bags for a themed look."
+        },
+        {
+          "name": "Classic French Chic",
+          "description": "Inspired by Jane Birkin, this trend focuses on individual facets like striped button-downs, easygoing denim, and slim sneakers.",
+          "stylingTips": "Pair with canvas plimsolls and wicker basket bags."
+        },
+        {
+          "name": "Sporty Prep / Sport-Luxe",
+          "description": "A fusion of prep and athleisure, featuring polo shirts, capri leggings, pleated skirts, and tracksuit jackets, often elevated with luxurious details.",
+          "stylingTips": "Transition versatile athletic wear from workouts to daily life with pieces like asymmetrical cropped tops and track pants in soft yellows and baby pinks."
+        },
+        {
+          "name": "Summer Does Autumn Palette",
+          "description": "A surprising trend of rich browns, vintage ivories, and deep blacks in summery shapes.",
+          "stylingTips": "Pair autumnal suede fabrics with summery silhouettes to evoke a sun-drenched villa vibe."
+        },
+        {
+          "name": "Retro Polka Dots",
+          "description": "A nostalgic print from the '50s and '80s, with black and white being particularly easy to style. Modern takes include sheer fabrics and unique dot shapes.",
+          "stylingTips": "Style with simple, modern accessories to keep the look fresh."
+        },
+        {
+          "name": "Tropical & Neon Hues",
+          "description": "Splashes of bold color like pool-blue, bubblegum pink, lime green, electric blue, and fuchsia are prominent.",
+          "stylingTips": "Wear as a full-look statement or as an accent in a neutral ensemble. Neon crop tops pair well with high-waisted denim shorts."
+        },
+        {
+          "name": "Crochet & Handmade Pieces",
+          "description": "Handcrafted details add vintage charm and uniqueness.",
+          "stylingTips": "A crochet bikini cover-up is perfect for beach days."
+        },
+        {
+          "name": "Cut-Out Dresses & Tops",
+          "description": "Strategic cut-outs provide stylish yet breathable outfits for warm weather.",
+          "stylingTips": "Choose pieces with cut-outs that flatter your body shape."
+        }
+      ],
+      "fall": [
+        {
+          "name": "Leather Everything",
+          "description": "Leather makes a strong statement in everything from oversized jackets to skirts.",
+          "stylingTips": "A leather trench coat over a turtleneck and wide-leg pants creates a sophisticated fall look. An '80s leather jacket with big shoulders is a must-have layer."
+        },
+        {
+          "name": "Chunky Knits",
+          "description": "Oversized sweaters and knitted dresses provide maximum comfort and style.",
+          "stylingTips": "Pair a chunky knit with a satin skirt for a cozy yet chic outfit."
+        },
+        {
+          "name": "Plaid & Houndstooth Patterns",
+          "description": "Classic prints making a comeback in blazers, pants, and skirts.",
+          "stylingTips": "These patterns offer versatile and sophisticated looks for both office and casual wear."
+        },
+        {
+          "name": "Rich Earth Tones",
+          "description": "The 'new neutrals' for 2025 include rich earth tones like camel, chocolate brown, and burgundy.",
+          "stylingTips": "Create a monochromatic look with different shades of brown for a chic, high-fashion feel."
+        }
+      ]
+    },
+    "generalTrends2025": [
+      {
+        "name": "Gray Skirts",
+        "description": "Diverse gray skirts, often in A-line, mini, or column silhouettes.",
+        "stylingTips": "Style with vibrant knitwear, matching tailored jackets, or rugged leather outerwear."
+      },
+      {
+        "name": "Suede Skirts",
+        "description": "Luxurious suede skirts in A-line, mini, or column silhouettes, tying into the 'Boho 2.0' trend.",
+        "stylingTips": "Pair with a simple tee for a casual look or a silk blouse for a more elevated feel."
+      },
+      {
+        "name": "Layered Skirts",
+        "description": "Skirts featuring two layers of material, creating depth and the appearance of wearing two pieces.",
+        "stylingTips": "Keep the rest of the outfit simple to let the skirt be the focal point."
+      },
+      {
+        "name": "Animal-Print Skirts",
+        "description": "Leopard, zebra, snake, and giraffe prints are dominating, signaling a return to maximalism.",
+        "stylingTips": "Ease into the trend with a basic tee, or go full maximalist by mixing prints and colors."
+      },
+      {
+        "name": "Knee-Length A-Line Skirts",
+        "description": "A refreshed take on fit-and-flare silhouettes, available in bright or muted colors.",
+        "stylingTips": "Pair with a fitted top to balance the volume of the skirt."
+      },
+      {
+        "name": "Textured Skirts",
+        "description": "Skirts with furry fabrics, sequins, detailed draping, or 3D embroidery.",
+        "stylingTips": "These tactile skirts are statement pieces; pair with simple tops."
+      },
+      {
+        "name": "Stripes on Stripes",
+        "description": "Layering stripes of different widths, colors, and directions for a bold, playful look.",
+        "stylingTips": "Keep accessories minimal to avoid overwhelming the look."
+      },
+      {
+        "name": "All About the Legs",
+        "description": "Highlighting legs with one-legged pants, asymmetrical hemlines, hot pants, and leggings layered under shorts or tunics.",
+        "stylingTips": "Balance daring bottoms with a more conservative top."
+      },
+      {
+        "name": "Bubble Silhouettes & Tutus",
+        "description": "Voluminous shapes, including bubble hems and tutu-inspired designs, adding drama and movement.",
+        "stylingTips": "These sculptural pieces are best for making a bold fashion statement."
+      },
+      {
+        "name": "The Cape",
+        "description": "A stylish alternative to traditional outerwear, incorporated into dresses and coats.",
+        "stylingTips": "Lighter fabrics like jersey and lace make capes suitable for transitional seasons."
+      },
+      {
+        "name": "Strategic Sheer Dressing",
+        "description": "Refined sheer elements focusing on panels, gossamer fabrics, and layered textures for a polished, ethereal look.",
+        "stylingTips": "Layer sheer pieces over opaque basics for a modest take on the trend."
+      },
+      {
+        "name": "Ladylike Dressing",
+        "description": "A refined comeback of bow-tie blouses, Peter Pan collars, and pleated skirts with modern twists.",
+        "stylingTips": "Pair a bow-tie blouse with tailored trousers for a chic, office-appropriate look."
+      },
+      {
+        "name": "Soft Tailoring / Sculptural Minimalism",
+        "description": "Tailoring takes a softer turn with oversized suits, flowing trousers, and feminine draping, blending structure and comfort.",
+        "stylingTips": "Look for subtle details like split hems and thin straps to elevate the minimalist look."
+      },
+      {
+        "name": "Wallpaper Nostalgic Florals",
+        "description": "Vintage-inspired florals reminiscent of '70s wallpaper.",
+        "stylingTips": "Pair with modern accessories for a fresh yet romantic aesthetic."
+      },
+      {
+        "name": "Frill & Fringe",
+        "description": "Ruffles, fringe, and ornate embellishments add movement and texture, from delicate ruffles to bold, oversized fringe.",
+        "stylingTips": "A leather-fringed skirt offers a rockstar-inspired style."
+      },
+      {
+        "name": "Asymmetric Tops",
+        "description": "One-shoulder looks or styles that sweep to one side, in lace, silk, or denim.",
+        "stylingTips": "Pair with pencil skirts or straight-leg jeans to elongate the figure."
+      },
+      {
+        "name": "Bermuda Shorts",
+        "description": "Longer shorts hitting at or below the knee, part of the Y2K throwback.",
+        "stylingTips": "Style with moto jackets and mules for a retro look, or with a one-shoulder top and nude pumps for an office-appropriate ensemble."
+      },
+      {
+        "name": "Dark Blue Double Denim",
+        "description": "The 'Canadian Tuxedo' updated with dark blue denim for a chic, timeless look.",
+        "stylingTips": "Combine matching denim maxi skirts, longline jackets, and button-down shirts."
+      },
+      {
+        "name": "Reality Dressing",
+        "description": "A shift towards practical, genuinely wearable pieces like smart trench coats, reflecting a return to office routines.",
+        "stylingTips": "Invest in high-quality, lasting pieces that prioritize comfort and authenticity."
+      },
+      {
+        "name": "Boho 2.0",
+        "description": "A polished comeback of bohemian fashion with romantic, feminine silhouettes.",
+        "stylingTips": "Key pieces include suede jackets, wide-leg jeans, and flowing maxi skirts. Balenciaga’s Le City Bag is a key accessory."
+      },
+      {
+        "name": "Power Rewired",
+        "description": "Gen Z's redefinition of power dressing, fusing rock and grunge with vintage luxury and sportswear.",
+        "stylingTips": "Key pieces include baggy jeans, front-crease tailored trousers, hourglass blazers, and hot pants."
+      },
+      {
+        "name": "Good Bad Taste",
+        "description": "An expressive trend moving away from minimalism, featuring oversized proportions, short skirts, sheer fabrics, and controversial shoes.",
+        "stylingTips": "Embrace mismatched layering and bold, fiery red or near-neon orange colors."
+      },
+      {
+        "name": "Childlike Comfort",
+        "description": "Nostalgia-driven trend including Y2K styles like ballet flats, Mary Janes, loafers, and jelly sandals.",
+        "stylingTips": "Personalize with accessories like bag charms and stuffed animal keychains."
+      }
+    ],
+    "colorPredictions": {
+      "springSummer2025": {
+        "overarchingMood": "A shift from 'quiet luxury' to a vibrant, expressive, and nature-inspired palette, reflecting a desire for authenticity, joyful individualism, and a deeper connection to the natural world.",
+        "playfulPastels": [
+          {
+            "name": "Butter Yellow",
+            "pantoneCode": "PANTONE 14-0747 TCX Misted Marigold",
+            "description": "A soft, muted yellow evoking comfort and ease, appearing as a gentle, vanilla-like, almost cream tone.",
+            "runwayPresence": "Dominant on runways at Chloé, Chanel, and Toteme in suede, separates, and draped dresses.",
+            "stylingTips": "An elegant alternative to cream or ivory. Pair with black for a tough, grounding feel."
+          },
+          {
+            "name": "Wispy Pink / Powder Pink",
+            "pantoneCode": "PANTONE 16-3115 TCX Crocus",
+            "description": "A lighter, softer touch of pink, moving away from intense 'Barbie pink'. Offers a barely-there, ethereal feel.",
+            "runwayPresence": "Seen at Alaïa, Khaite, and Loewe with sculptural silhouettes. Abundant at Brandon Maxwell, Miu Miu, and Chanel.",
+            "stylingTips": "Pair with a crisp white cotton skirt for a minimalist look, or with mocha for a fashion-forward combination."
+          },
+          {
+            "name": "Minty Greens",
+            "pantoneCode": "PANTONE 12-0312 TCX Lime Cream",
+            "description": "A refreshing yet relaxing shade of green, infused with a delicate fresh vibe.",
+            "runwayPresence": "Dominant at Fendi and Sportmax in sheer chiffon, and in suede at Marni. Also seen at Versace and Coach.",
+            "stylingTips": "Often paired with lilac purples for a whimsical feeling."
+          }
+        ],
+        "vibrantBrights": [
+          {
+            "name": "Tangerine / Orangeade",
+            "pantoneCode": "PANTONE 17-1461 TCX Orangeade",
+            "description": "Zesty, exhilarating citrus shades described as bold and fearless. Also referred to as 'Blood Orange'.",
+            "runwayPresence": "Seen in bohemian blouses at Saint Laurent, draped skirts at Tove, and as a key color at Gucci and Prada.",
+            "stylingTips": "A pop of citrus is a fresh way to embrace color. Pops best as a bright summer bag."
+          },
+          {
+            "name": "Crisp Blue / Sky Blue / Cerulean",
+            "pantoneCode": "PANTONE 13-4810 TCX Limpet Shell / PANTONE 19-4041 TCX Déjà vu Blue",
+            "description": "Ranges from pale blue crisp cotton shirting to electric cerulean and ultramarine Klein Blue.",
+            "runwayPresence": "Crisp shirting seen at Prada and Bottega Veneta. Cerulean was a top trend at Kallmeyer, JW Anderson, and Miu Miu.",
+            "stylingTips": "Tuck a crisp blue shirt into high-waisted, wide-leg pants for a preppy, uniform-like look."
+          },
+          {
+            "name": "Primary Colors (Red, Yellow, Blue)",
+            "description": "Bold, foundational colors used to bring retro sportswear to life.",
+            "runwayPresence": "Seen in ultra-short mini dresses at Loewe and clever knitwear at Prada.",
+            "stylingTips": "Try wearing all three colors in unison through prints or accessorize with a bright red pump. Monochromatic looks also work well."
+          },
+          {
+            "name": "Bold Reds",
+            "pantoneCode": null,
+            "description": "A perennial favorite, reaffirming its classic, timeless appeal. Warmer than black but less in-your-face than tomato red.",
+            "runwayPresence": "Embraced by Tommy Hilfiger, Off-White, Ferragamo, and Carolina Herrera.",
+            "stylingTips": "The 'pop of red' theory applies, instantly elevating any outfit."
+          }
+        ],
+        "earthyMidTones": [
+          {
+            "name": "Mocha Mousse / Brown",
+            "pantoneCode": "PANTONE 17-1336 TCX Bran / PANTONE 14-1025 TCX Cocoon",
+            "description": "A wholesome, warm brown hue that is organic and grounded. Comes in all shades and fabrics.",
+            "runwayPresence": "Featured in suede jackets at Miu Miu and draped jersey dresses at Lemaire and Gucci.",
+            "stylingTips": "Acts as a perfect backdrop for other colors. Style with a pop of red or pare back to pale blue. Brown suede handbags are perfect essentials."
+          },
+          {
+            "name": "Emerald Green / Fresh-Cut Grass",
+            "pantoneCode": "PANTONE 14-0442 TCX White Grape / PANTONE 17-6319 TCX Kashmir",
+            "description": "A vibrant green that possesses wealth-enhancing qualities and connects to nature.",
+            "runwayPresence": "Used at Victoria Beckham, Erdem, and Carolina Herrera in evening gowns, and more casually at Tibi and Gucci.",
+            "stylingTips": "Pair with neutral tones to let the green stand out."
+          },
+          {
+            "name": "Moody Plum / Burgundy",
+            "pantoneCode": null,
+            "description": "Described as oxblood's cooler, older sister. A sophisticated in-between shade.",
+            "runwayPresence": "Showcased in strong shapes and silhouettes at Tibi, Saint Laurent, and Alaïa.",
+            "stylingTips": "Works best when worn head-to-toe tonal in tailoring or strong dress shapes."
+          }
+        ],
+        "metallics": [
+          {
+            "name": "Gold",
+            "description": "A flashy metallic that commands attention.",
+            "runwayPresence": "Seen as slinky slips, micro-mini skirts, and accessories at Emilia Wickstead, Balmain, and Chanel.",
+            "stylingTips": "Incorporate as a statement piece or through accessories."
+          },
+          {
+            "name": "Silver",
+            "description": "A versatile metallic that can be integrated into daytime looks.",
+            "runwayPresence": "Paired with sports luxe outerwear for a high-low combination at Rabanne, Dior, and Prada.",
+            "stylingTips": "Switch a chunky knit for a simple white tee and sandals to make it daytime appropriate."
+          }
+        ],
+        "seasonlessNeutrals": [
+          {
+            "name": "Eclipse",
+            "pantoneCode": "PANTONE 19-3810 TCX",
+            "description": "A shadowed blue displaying an air of credible importance; trusted and recognizable."
+          },
+          {
+            "name": "Antique White",
+            "pantoneCode": "PANTONE 11-0105 TCX",
+            "description": "Imbued with duality, appearing familiar while conveying minimalism and elevated simplicity."
+          },
+          {
+            "name": "Rum Raisin",
+            "pantoneCode": "PANTONE 19-1321 TCX",
+            "description": "A sumptuous, rich brown that is strong and polished, bringing sensorial warmth and practicality."
+          },
+          {
+            "name": "Moonbeam",
+            "pantoneCode": "PANTONE 13-0000 TCX",
+            "description": "A timeless, reliable, pale gray that is easy and effortless."
+          },
+          {
+            "name": "Blue Granite",
+            "pantoneCode": "PANTONE 18-3933 TCX",
+            "description": "An enduring mineralized gray, a natural statement of longevity."
+          },
+          {
+            "name": "Turbonite",
+            "pantoneCode": null,
+            "description": "A visionary gray shade with a tawny bronze undertone, highlighting the allure of materials harvested from the earth."
+          }
+        ]
+      }
+    },
+    "runwayTrendsFallWinter2025": {
+      "overarchingThemes": [
+        {
+          "name": "Reimagined Femininity",
+          "description": "A re-evaluation of femininity, moving away from traditional aesthetics to focus on dressing for oneself with confidence and strength."
+        },
+        {
+          "name": "Nostalgia and Heritage Reinterpretation",
+          "description": "Designers delving into archives to reinterpret brand distinctiveness, fostering emotional connection and authenticity."
+        },
+        {
+          "name": "Theatricality and Performance",
+          "description": "Collections rich in emotional resonance, boundary-pushing design, and star-studded spectacle, blurring lines between fashion and art."
+        }
+      ],
+      "apparelTrends": [
+        {
+          "name": "Sculptural and Voluminous Silhouettes",
+          "description": "A dominant theme involving the manipulation of proportion and form, with curved lines, exaggerated proportions, and hourglass tailoring."
+        },
+        {
+          "name": "Maxi Skirt Mania",
+          "description": "A shift towards modesty with maxi skirts in embellished, lace, and pleated styles, adding volume and movement."
+        },
+        {
+          "name": "Corpcore Refresh",
+          "description": "The 'office siren' aesthetic continues with unique spins like sequined shirting, tailored shorts, and furred suiting."
+        },
+        {
+          "name": "Bedtime Ready",
+          "description": "Pajama-inspired elements like lounging robes and cozy accessories are embraced for an easy transition from bed to office."
+        },
+        {
+          "name": "Layered Capes and Cocooned Silhouettes",
+          "description": "Caped coats and layered jackets return, combining elegance with practicality in neutral hues and striking prints."
+        },
+        {
+          "name": "Penny Lane (70s Bohemian)",
+          "description": "Inspired by the character from 'Almost Famous', featuring Penny Lane coats, strapless tops with tight pants, and low-slung belts."
+        },
+        {
+          "name": "A Slight Shrug (Boleros)",
+          "description": "The return of the bolero, a waist-length, open-front jacket or sweater with long sleeves, in various materials like fur and knit."
+        }
+      ],
+      "materialAndTextureTrends": [
+        {
+          "name": "Pops of Fur / For the Love of Fuzz",
+          "description": "Furred textures used intentionally as accents, trims, or full coats, often in faux or vintage versions. Shearling is a focal point."
+        },
+        {
+          "name": "Buttery Leathers",
+          "description": "A new array of soft, smooth, and buttery finishes for leather in cropped jackets, oversized bombers, and floor-length coats."
+        },
+        {
+          "name": "Darker, Gothic Romance",
+          "description": "A shift to darker, almost gothic fabrics like black lace, sheer chiffon, and tough leather, reflecting a more melancholy mood."
+        },
+        {
+          "name": "Naked Dressing (Subtler Translucency)",
+          "description": "The trend evolves into subtler forms with translucent overlays, organza inserts, and chiffon sleeves for controlled exposure."
+        },
+        {
+          "name": "Slick Operator (Plasticky Overlays)",
+          "description": "Clear, plasticky covers and vinyl materials make garments appear laminated, as if preserved from the elements."
+        }
+      ],
+      "colorAndPrintTrends": [
+        {
+          "name": "Vibrant Technicolor",
+          "description": "A strong move away from neutrals towards powerful, vivid, and saturated hues like electric orange, aqua blue, royal purple, and pistachio green."
+        },
+
+        {
+          "name": "Animal Instincts",
+          "description": "The entire animal kingdom is in play, including mixed prints, fur-printed trench coats, sequined snake patterns, and deer prints."
+        },
+        {
+          "name": "Plaid (Refreshed)",
+          "description": "Tartans rendered in gauzy cottons and grayscale palettes for an understated luxury feel, along with woodsy materials like Fair Isle knits."
+        },
+        {
+          "name": "Polka Dots",
+          "description": "Playful polka dots adding upbeat positivity, from fitted dresses to grand, jewel-toned evening wear."
+        }
+      ],
+      "accessoryTrends": [
+        {
+          "name": "Bold, Statement-Making Belts",
+          "description": "Focus on bold belts, including sumptuous layering and thick belt-corset hybrids."
+        },
+        {
+          "name": "Chain Strap Mini Handbags",
+          "description": "Petite accessories adorned with chunky metallic chains for a chic and edgy blend."
+        },
+        {
+          "name": "Key and Lock Accessories",
+          "description": "Locket-shaped necklaces and padlock details on handbags are prominent."
+        },
+        {
+          "name": "Pointy Shoes",
+          "description": "Ladylike pointy shoes take an edgy turn with exaggerated, 'witchy' silhouettes."
+        },
+        {
+          "name": "Jewelry Integrated into Clothing",
+          "description": "Clothing that incorporates jewelry into its design, such as embellished collars or tops with dangling charms."
+        }
+      ]
+    },
+    "fabricTrends2025": {
+      "overarchingThemes": [
+        "Sustainability Revolution: Eco-friendly fabrics leading the market.",
+        "Technological Integration: Smart textiles and performance fabrics merging technology with comfort.",
+        "Bold Aesthetics: A desire for textile richness, decorations, and maximalist designs.",
+        "Classic Revival: Traditional fabrics enhanced with modern performance features."
+      ],
+      "sustainableFabrics": [
+        {
+          "name": "Organic Cotton Innovations",
+          "description": "Uses 40% less water, often blended with recycled materials for strength. Non-toxic dyes enhance performance."
+        },
+        {
+          "name": "Recycled Polyester Advancements",
+          "description": "Diverts plastic bottles from landfills, with new processing methods creating soft, natural-feeling fabrics."
+        },
+        {
+          "name": "Tencel and Cork Fabric",
+          "description": "Tencel is biodegradable and uses 95% less water than cotton. Cork is a water-resistant, durable, and renewable leather alternative."
+        },
+        {
+          "name": "Plant-Based Alternatives",
+          "description": "Includes pineapple leather, mushroom textiles, and bio-fabricated materials from algae, bacteria, and fungi."
+        },
+        {
+          "name": "Hemp",
+          "description": "Recognized as a highly sustainable fabric requiring minimal water and improving soil health."
+        }
+      ],
+      "classicAndTexturedFabrics": [
+        {
+          "name": "Velvet",
+          "description": "A major trend with improved stain resistance and durability, available in rich jewel tones and pastels."
+        },
+        {
+          "name": "Bouclé",
+          "description": "Cozy texture appearing in fresh colors, with new techniques making it easier to clean and more durable."
+        },
+        {
+          "name": "Chiffon",
+          "description": "Enhanced with structural improvements for more stability while maintaining its floating quality."
+        },
+        {
+          "name": "Suede",
+          "description": "A big comeback bringing boho vibes to blazers, skirts, and matching sets."
+        },
+        {
+          "name": "Linen",
+          "description": "Remains popular for its breathable quality and relaxed elegance, used for both intricate lace and minimalist shapes."
+        },
+        {
+          "name": "Cotton",
+          "description": "Reimagined in modern ways, with water-washed cotton poplin offering a soft, relaxed feel."
+        },
+        {
+          "name": "Crepe",
+          "description": "Stands out for its crinkled texture and shape retention, providing movement and elegance."
+        }
+      ],
+      "printAndPatternTrends": [
+        {
+          "name": "Statement Prints",
+          "description": "Oversized florals, geometric patterns, and contrasting colors demand attention. 70s-inspired print mixing is popular."
+        },
+        {
+          "name": "Retro Revival",
+          "description": "Psychedelic swirls, checkerboards, and kaleidoscopic patterns from the '70s and '90s inject a nostalgic vibe."
+        },
+        {
+          "name": "Nature-Inspired Motifs",
+          "description": "Oversized blooms, intricate botanicals, and animal patterns like zebra and leopard in unusual color palettes."
+        },
+        {
+          "name": "Abstract Art",
+          "description": "Patterns inspired by abstract art, featuring splashes of color and bold brushstrokes."
+        },
+        {
+          "name": "Graphic Monochromes",
+          "description": "Black-and-white patterns like houndstooth, stripes, and polka dots for a classic yet contemporary look."
+        }
+      ]
+    },
+    "silhouetteTrends2025": [
+      {
+        "name": "Voluminous & Sculptural Shapes",
+        "description": "Emphasis on 'cocooning silhouettes' with volume at the center of garments, including exaggerated outerwear and puffball/bubble hemlines."
+      },
+      {
+        "name": "Relaxed & Fluid Silhouettes",
+        "description": "A sophisticated 'lounge luxe' aesthetic with tailored loungewear, wide-leg trousers, and flowing maxi skirts/dresses."
+      },
+      {
+        "name": "Tailored & Structured Elements",
+        "description": "A polished approach with masculine suiting, structured blazers, and structured athleisure with architectural elements."
+      },
+      {
+        "name": "Redefined Sexiness & Proportion Play",
+        "description": "Experimenting with proportions, featuring hot pants, short skirts, sheer fabrics, and strapless dresses. Asymmetry is key."
+      },
+      {
+        "name": "Nostalgic Silhouettes (90s & Y2K)",
+        "description": "Revival of 90s knee-length skirts, Y2K aesthetics, and a slow return of skinny jeans, though wide-leg remains dominant."
+      }
+    ]
+  },
+  "stylingGuidelines": {
+    "bodyTypeStyling": [
+      {
+        "name": "Apple Body Shape",
+        "aliases": ["Oval", "Round"],
+        "characteristics": "Shoulders are wider than hips, fuller bust, less defined waistline, with weight concentrated around the midsection. Legs and arms are typically thinner.",
+        "stylingGoals": "Draw attention away from the midriff and highlight the legs and neckline, creating an illusion of an elongated torso.",
+        "stylingRecommendations": [
+          "Wear V-neck and deep V-necklines to elongate the torso.",
+          "Choose A-line or empire-cut dresses and tops that flow from below the bust.",
+          "Opt for wrap dresses to highlight the waistline.",
+          "Wear flowy tops and tunics that skim over the midsection.",
+          "Select flared pants to balance wider shoulders.",
+          "Highlight slimmer legs with skinny jeans or tailored pants.",
+          "Use monochrome looks and darker colors for a slimming effect."
+        ],
+        "stylesToAvoid": [
+          "Figure-hugging dresses or tops with skinny jeans.",
+          "Clingy tops and overly boxy cuts.",
+          "Dresses and belts that cinch tightly at the natural waist.",
+          "Heavy, intricate patterns on the waist.",
+          "Overly structured tops or shoulder details that add bulk."
+        ],
+        "celebrityExamples": ["Drew Barrymore", "Catherine Zeta-Jones"]
+      },
+      {
+        "name": "Pear Body Shape",
+        "aliases": ["Triangle"],
+        "characteristics": "Hips are wider than the bust and shoulders, with a defined waist. Often a fuller behind and more muscular legs.",
+        "stylingGoals": "Balance proportions by adding volume or detail to the upper body, drawing attention upwards, and highlighting the defined waist.",
+        "stylingRecommendations": [
+          "Wear boat neck, scoop neck, and sweetheart necklines to emphasize the upper body.",
+          "Choose tops with ruffles, pleats, or patterns to draw focus upwards.",
+          "Use shoulder pads to add definition to shoulders.",
+          "Opt for wide-legged pants and A-line skirts or dresses that flow over the hips.",
+          "Wear darker colors for bottoms to streamline the lower half.",
+          "Use structured outerwear like blazers with shoulder padding."
+        ],
+        "stylesToAvoid": [
+          "Pants or tights that narrow the legs, like skinny jeans, if the goal is to create balance.",
+          "Skin-fitting tops and halter necklines."
+        ],
+        "celebrityExamples": ["Kim Kardashian", "Jennifer Lopez", "Rihanna"]
+      },
+      {
+        "name": "Rectangle Body Shape",
+        "aliases": ["Straight", "Athletic", "Banana"],
+        "characteristics": "Shoulders, waist, and hips are roughly equal in width, creating a straight silhouette.",
+        "stylingGoals": "Create the illusion of curves and define the waist, breaking up the straight silhouette.",
+        "stylingRecommendations": [
+          "Use belts with dresses and skirts to pinch in the waist.",
+          "Wear dresses with a cinched waistline or wrap dresses.",
+          "Choose peplum tops to add dimension and create a waist.",
+          "Opt for tops with ruffles, frills, and embellishments to add volume.",
+          "Wear skinny jeans and figure-hugging skirts to add shape.",
+          "Use high-waisted pants to create curves.",
+          "Layer outfits to add depth and shape."
+        ],
+        "stylesToAvoid": [
+          "Wearing straight or baggy clothing on both the top and bottom.",
+          "Overly vertical silhouettes like a straight jacket with straight trousers."
+        ],
+        "celebrityExamples": ["Kate Hudson", "Gweneth Paltrow"]
+      },
+      {
+        "name": "Hourglass Body Shape",
+        "characteristics": "A balanced bust and hips with a clearly defined, narrow waist.",
+        "stylingGoals": "Emphasize the natural waist and embrace the curvy top and bottom.",
+        "stylingRecommendations": [
+          "Wear clothing that fits snugly against the waist or cinches at the waist.",
+          "Use belts to draw attention to the waist.",
+          "Choose wrap dresses, bodycon dresses, and pencil skirts.",
+          "Opt for V-neck, plunge V, and sweetheart necklines.",
+          "Wear high-waisted jeans to emphasize the waist.",
+          "Get clothes tailored to fit the body's outline."
+        ],
+        "stylesToAvoid": [
+          "Boxy and shapeless clothing that hides the silhouette.",
+          "Loose tops or bottoms that obscure the defined waist.",
+          "High-neck tops like turtlenecks if you wish to minimize a busty figure."
+        ],
+        "celebrityExamples": ["Marilyn Monroe", "Beyoncé", "Dita Von Teese"]
+      },
+      {
+        "name": "Inverted Triangle Body Shape",
+        "aliases": ["Heart"],
+        "characteristics": "Shoulders are much broader than the hips, or the bust is larger than the hips. Often considered the most athletic-looking body type.",
+        "stylingGoals": "Balance the upper half by adding volume to the lower body.",
+        "stylingRecommendations": [
+          "Wear V-necklines to create an illusion of narrower shoulders.",
+          "Choose simple designs and dark colors for tops.",
+          "Opt for A-line skirts and dresses to give the lower body a fuller look.",
+          "Wear wide-leg pants, bootcut jeans, and embellished bottoms to add volume to the hips.",
+          "Use bright colors, prints, and details on the bottom half to draw focus downwards."
+        ],
+        "stylesToAvoid": [
+          "Boat-neck or Bardot necklines, big straps, and halter-neck tops.",
+          "Shoulder pads or overly structured tops.",
+          "Large patterns on the top half."
+        ],
+        "celebrityExamples": ["Angelina Jolie", "Demi Moore", "Rene Zellweger"]
+      }
+    ],
+    "capsuleWardrobe": {
+      "definition": "A meticulously curated collection of versatile, timeless, and interchangeable clothing items that serve as the foundation of one's personal style, allowing for the creation of numerous outfits with a limited number of pieces.",
+      "benefits": [
+        "Saves time and money by simplifying routines and reducing unnecessary purchases.",
+        "Reduces fashion waste by prioritizing long-lasting garments.",
+        "Enhances creativity by encouraging experimentation with outfit combinations.",
+        "Declutters physical space and reduces stress."
+      ],
+      "howToBuild": [
+        {
+          "step": 1,
+          "title": "Define Your Purpose and Needs",
+          "details": "Assess your lifestyle, climate, and desired formality level. Your capsule should reflect how you actually dress."
+        },
+        {
+          "step": 2,
+          "title": "Declutter Your Existing Wardrobe",
+          "details": "Empty your closet and sort items into 'Keep', 'Donate/Sell', and 'Discard' piles. Be honest about what you wear and what fits."
+        },
+        {
+          "step": 3,
+          "title": "Identify Your Core Style and Color Palette",
+          "details": "Analyze kept pieces to define your personal style. Choose a cohesive color palette, starting with neutrals and adding 2-3 accent shades."
+        },
+        {
+          "step": 4,
+          "title": "Gather Outfit Inspiration",
+          "details": "Create a mood board with outfit ideas that reflect your desired style to identify common pieces and combinations."
+        },
+        {
+          "step": 5,
+          "title": "Strategically Select Core Capsule Pieces",
+          "details": "Prioritize adding structurally different, multi-functional items that are missing. Vary silhouettes and textures."
+        },
+        {
+          "step": 6,
+          "title": "Add Versatility Layers",
+          "details": "Introduce outerwear, versatile shoes, and accessories like belts, scarves, and jewelry to expand styling potential."
+        },
+        {
+          "step": 7,
+          "title": "Trial and Update",
+          "details": "Test your capsule for a set period. Identify 'Most Valuable Pieces' and 'Weak Links', and make small, strategic swaps to refine it."
+        }
+      ],
+      "essentials": {
+        "tops": [
+          {
+            "item": "White T-Shirt",
+            "description": "A fundamental basic for layering and pairing with everything.",
+            "combinations": ["With straight-leg jeans and sneakers.", "Layered under a blazer.", "Tucked into a midi skirt."]
+          },
+          {
+            "item": "Button-Down Shirt (White/Oversized)",
+            "description": "A versatile, all-season piece perfect for layering or wearing alone.",
+            "combinations": ["With tailored trousers for work.", "Knotted at the waist with jeans.", "Worn open over a tank top."]
+          },
+          {
+            "item": "Sweater (Crewneck/V-neck)",
+            "description": "High-quality knits in cashmere or lightweight cotton add elegance and coziness.",
+            "combinations": ["With tailored trousers and heels.", "With jeans and loafers.", "Layered over a button-down shirt."]
+          },
+          {
+            "item": "Turtleneck",
+            "description": "A timeless design for cooler months that adds sophistication.",
+            "combinations": ["With high-waisted dress pants.", "Dressed down with jeans and ankle boots.", "Layered under a blazer."]
+          }
+        ],
+        "bottoms": [
+          {
+            "item": "Straight-Leg Jeans",
+            "description": "A classic, trend-proof cut. A mid-blue wash is highly recommended.",
+            "combinations": ["With a white T-shirt and sneakers.", "Dressed up with a blazer and heels."]
+          },
+          {
+            "item": "Black Trousers",
+            "description": "Versatile, timeless, and can be dressed up or down.",
+            "combinations": ["With a white blouse and blazer for a professional look.", "With a graphic tee and sneakers for a casual vibe."]
+          },
+          {
+            "item": "Skirt (Midi/Slip)",
+            "description": "A true wardrobe staple that can be dressed up or down.",
+            "combinations": ["With a basic tee and sneakers.", "With a silk blouse and heels."]
+          }
+        ],
+        "dresses": [
+          {
+            "item": "Black Dress (LBD)",
+            "description": "A staple for any elevated occasion, versatile for any season.",
+            "combinations": ["With heels and chunky earrings for glamour.", "With flats and a denim jacket for a casual look."]
+          }
+        ],
+        "outerwear": [
+          {
+            "item": "Blazer",
+            "description": "Adds instant sophistication and is a great layering piece for all seasons.",
+            "combinations": ["With matching trousers for a suit.", "With jeans and a tee for a smart-casual look."]
+          },
+          {
+            "item": "Trench Coat",
+            "description": "Timeless and versatile, ideal for transitional weather.",
+            "combinations": ["Over a tank top and straight jeans.", "Over a dress for a polished look."]
+          },
+          {
+            "item": "Leather Jacket",
+            "description": "Adds an edgy touch and is suitable for multiple seasons.",
+            "combinations": ["Over an LBD for a night out.", "With jeans and a simple tee."]
+          }
+        ],
+        "shoes": [
+          {
+            "item": "White Sneakers",
+            "description": "Versatile, comfortable, and add a casual chic touch.",
+            "combinations": ["With jeans and a tee.", "With a slip dress and trench coat."]
+          },
+          {
+            "item": "Flats (Ballet Flats/Loafers)",
+            "description": "Versatile footwear that can be dressed up or down.",
+            "combinations": ["With denim, trousers, and skirts."]
+          },
+          {
+            "item": "Ankle Boots",
+            "description": "A go-to footwear option that can be worn throughout the year.",
+            "combinations": ["With jeans and a cozy sweater.", "With a dress and a leather jacket."]
+          }
+        ],
+        "accessories": [
+          {
+            "item": "Tote Bag",
+            "description": "A large, functional bag for daily essentials. A high-quality leather piece is recommended."
+          },
+          {
+            "item": "Belt",
+            "description": "Adds a finishing touch to jeans and trousers. High-quality leather is a good investment."
+          },
+          {
+            "item": "Sunglasses",
+            "description": "Punch up any outfit. Aviators, ovals, and cat-eyes are versatile styles."
+          }
+        ]
+      }
+    },
+    "colorCoordination": {
+      "foundations": {
+        "colorWheel": {
+          "description": "A circular chart organizing colors based on their relationships, providing a roadmap for creating balanced palettes.",
+          "components": [
+            {"name": "Primary Colors", "value": "Red, yellow, and blue."},
+            {"name": "Secondary Colors", "value": "Orange, green, and purple."},
+            {"name": "Tertiary Colors", "value": "Combinations of primary and secondary colors (e.g., red-orange)."}
+          ],
+          "relationships": [
+            {"name": "Complementary", "description": "Colors opposite each other on the wheel (e.g., red/green). Creates a bold, high-contrast look."},
+            {"name": "Analogous", "description": "Colors next to each other on the wheel (e.g., red, orange, yellow). Creates a harmonious, cohesive effect."},
+            {"name": "Monochromatic", "description": "Different shades and tones of a single color. Creates a sophisticated, elegant look."}
+          ]
+        }
+      },
+      "coreStrategies": [
+        {
+          "strategy": "Stick to a Color Palette",
+          "description": "Choose a curated set of colors that complement each other (e.g., earth tones, pastels) to easily mix and match pieces."
+        },
+        {
+          "strategy": "Incorporate Neutral Colors",
+          "description": "Use neutrals like black, white, gray, and beige to balance bold or bright outfits. They are versatile and pair well with almost any color."
+        },
+        {
+          "strategy": "The 60-30-10 Rule",
+          "description": "A guideline for balanced color distribution: 60% dominant color, 30% secondary color, and 10% accent color."
+        },
+        {
+          "strategy": "Experiment with Prints and Patterns",
+          "description": "When combining prints, ensure the colors within them are consistent or harmonious. Anchor busier prints with a solid color."
+        },
+        {
+          "strategy": "Repeat Colors for Cohesion",
+          "description": "Repeating a color across garments and accessories (e.g., red dress, red lipstick, red earrings) enhances cohesion."
+        }
+      ],
+      "colorCombinations": [
+        {"name": "Black and White", "description": "A timeless classic, perfect for any occasion, exuding sophistication."},
+        {"name": "Navy and Mustard", "description": "A versatile navy paired with mustard creates a vibrant, eye-catching contrast."},
+        {"name": "Denim and White", "description": "A fail-safe, effortlessly chic combination."},
+        {"name": "Orange and Blue", "description": "A striking warm and cool complementary contrast."},
+        {"name": "Grey and Pink", "description": "A soft, romantic, and feminine combination."},
+        {"name": "Green and Purple", "description": "A regal, luxurious, and sophisticated pairing."}
+      ],
+      "personalizationTips": [
+        {
+          "tip": "Consider Your Skin Tone",
+          "details": "Choose colors that flatter your skin, hair, and eye coloring. Warm tones for warm coloring, cool tones for cool coloring."
+        },
+        {
+          "tip": "Use Accessories for Pops of Color",
+          "details": "A vibrant scarf, a bold necklace, or a colorful handbag can instantly elevate a neutral or monochromatic outfit."
+        },
+        {
+          "tip": "Add Depth with Textures",
+          "details": "Mixing textures like silk with tweed, or denim with leather, adds dimension and enhances the overall look."
+        }
+      ]
+    },
+    "professionalOutfits": {
+      "coreComponents": [
+        {"item": "Blazers", "description": "A staple that can be tailored or oversized. Neutrals like black, grey, or camel are versatile."},
+        {"item": "Trousers", "description": "Styles range from tailored slim-fit to wide-leg. Neutral hues are ideal."},
+        {"item": "Skirts", "description": "Modest skirts, typically knee-length or below. Pencil, A-line, or midi styles."},
+        {"item": "Blouses/Shirts", "description": "Button-up shirts are a smart choice. White, black, and soft tones are foundational."},
+        {"item": "Dresses", "description": "Well-fitted but not overly tight, finishing at or below the knees. Wrap or shirt dresses are popular."},
+        {"item": "Sweaters/Cardigans", "description": "Lightweight knits, turtlenecks, or cardigans for layering."},
+        {"item": "Shoes", "description": "Closed-toe styles like pumps, loafers, flats, or heeled boots are preferred."}
+      ],
+      "outfitCombinations": {
+        "classicTailored": [
+          "Black Blazer + Taupe Turtleneck + Black Trousers",
+          "Camel Blazer + Tan Top + Black Trousers + Suede Loafers",
+          "White Button-Down Shirt + Tailored Beige Trousers",
+          "Pinstripe Pants + Fitted Sweater + Metallic Accessories"
+        ],
+        "modernChic": [
+          "Black Blazer + White Blouse + Leather Pants + Loafers",
+          "Navy Sweater Dress layered over a White Shirt + Chunky Boots",
+          "Striped Shirt + Leather Skirt + Tie",
+          "Pleated Midi Skirt + Slim-fitting Turtleneck + Ankle Boots",
+          "Leather Pencil Skirt + Cashmere Sweater"
+        ],
+        "businessCasual": [
+          "Long Black Coat + White Sweater + Gray Jeans + Black Boots",
+          "Beige Trench Coat + Striped Shirt + Straight-Leg Jeans + Ballet Flats",
+          "Oversized Blazer + Classic Tee + Jeans + Loafers",
+          "Cropped Trousers + Oversized Sweater + Kitten Heels"
+        ]
+      },
+      "colorCombinations": [
+        {"name": "Navy and White", "description": "A classic combination exuding professionalism and sophistication."},
+        {"name": "Black and Grey", "description": "A sleek and modern look; black is powerful, grey softens it."},
+        {"name": "Olive Green and Cream", "description": "A balanced and professional look with an earthy tone and soft contrast."},
+        {"name": "Burgundy and Red", "description": "A bold, dynamic, and powerful combination."},
+        {"name": "Black and Camel", "description": "A timeless, sophisticated combination of sleek black and warm camel."}
+      ],
+      "dressCodeNuances": {
+        "formalBusiness": "The most sophisticated style. Requires a pantsuit or skirt suit, formal closed-toe shoes, and minimal jewelry.",
+        "businessCasual": "A relaxed style that errs on the side of 'business'. Allows for blazers, tailored trousers, modest skirts, and blouses. Avoids jeans (unless specified), leggings, and overly casual items.",
+        "casual": "The most relaxed dress code, often allowing jeans, t-shirts, and sneakers. Still best to avoid ripped or overly informal attire."
+      }
+    },
+    "casualOutfits": {
+      "corePrinciples": "Prioritizing comfort, ease, and a relaxed aesthetic. It is low-effort but not lazy or sloppy, achieving an 'effortless elegance'.",
+      "essentialElements": {
+        "pieces": "Soft tees, sweatshirts, worn-in jeans, leggings, joggers, comfy cardigans, denim jackets, flowy dresses, and casual sneakers.",
+        "fabrics": "Cotton jersey, fleece, ribbed knits, denim with stretch, linen, and other breathable, soft materials.",
+        "silhouettes": "Loose, flowy, unstructured, and forgiving. Often oversized tops with fitted bottoms or vice versa.",
+        "colors": "Neutrals (black, grey, white, oatmeal), washed-out colors (dusty blue, olive), and pops of fun colors (lavender, mustard)."
+      },
+      "outfitFormulas": [
+        {
+          "formula": "Leggings/Bike Shorts + Oversized Top",
+          "examples": ["Leggings + oversized sweatshirt + sneakers.", "Loose tee + bike shorts + denim jacket + dad cap."]
+        },
+        {
+          "formula": "Jeans + Top + Layer",
+          "examples": ["Crewneck sweater + boyfriend jeans + slides.", "White tee + jeans + blazer.", "Mom jeans + turtleneck."]
+        },
+        {
+          "formula": "Skirt + Top",
+          "examples": ["Midi skirt + chunky boots + jumper.", "White poplin skirt + fitted grey cardigan + mesh flats.", "Knitted top + denim skirt + ballet flats."]
+        },
+        {
+          "formula": "Dress + Footwear/Layer",
+          "examples": ["Flowy dress + kitten heel + cardigan.", "Printed dress + sneakers.", "Midi dress + denim jacket + trainers."]
+        },
+        {
+          "formula": "Matching Sets",
+          "examples": ["Matching hoodie and joggers.", "Matching sweater and skirt set.", "Monochrome top and bottom in black, white, or cream."]
+        }
+      ],
+      "stylingRules": [
+        {
+          "rule": "Prioritize Comfort",
+          "description": "Choose breathable fabrics and relaxed fits that allow ease of movement."
+        },
+        {
+          "rule": "The 'Third Piece' Rule",
+          "description": "Adding a third layer like a blazer, jacket, or cardigan instantly makes an outfit feel more 'finished'."
+        },
+        {
+          "rule": "Balance Proportions",
+          "description": "If a top is voluminous, pair it with a more fitted bottom, and vice versa."
+        },
+        {
+          "rule": "Coordinate Accessories",
+          "description": "Use accessories to add a personal touch. Keep jewelry minimal for a truly casual look. A baseball cap can look intentional."
+        },
+        {
+          "rule": "Pay Attention to Grooming",
+          "description": "Ensure clothes are clean, wrinkle-free, and well-maintained. Neat hair and clean nails are important."
+        }
+      ]
+    }
+  },
+  "interiorDesign": {
+    "trends2025": [
+      {
+        "trend": "Thoughtful, Sustainable, and Bespoke Design",
+        "description": "A shift towards timeless interiors, conscious consumerism, and craftsmanship, prioritizing items with personal meaning over mass-produced goods.",
+        "keyElements": ["Longevity over trends", "Responsible sourcing (vintage, antique)", "Eco-friendly materials (wood, bamboo, recycled glass)", "Artisanal and handcrafted items", "Lived-in luxury"]
+      },
+      {
+        "trend": "Pockets of Sanctuary and Wellness",
+        "description": "Creating dedicated spaces for relaxation and well-being, such as cozy reading nooks, calming bedrooms, and spa-like bathrooms.",
+        "keyElements": ["Holistic design approach", "Spa-like bathrooms with sensory features", "Biophilic design (indoor plants, natural light)", "Integrated outdoor living spaces"]
+      },
+      {
+        "trend": "Rich and Moody Color Palettes",
+        "description": "A move away from monotonous neutrals towards expressive, saturated, and warm colors like deep browns, jewel tones, and moody blues.",
+        "keyElements": ["Warm earth tones (terracotta, mustard)", "Deep browns (Mocha Mousse)", "Jewel tones (plum, burgundy, indigo)", "Bold black accents", "Color drenching"]
+      },
+      {
+        "trend": "Textured Walls and Ceilings",
+        "description": "Adding depth and character with texture. The ceiling ('fifth wall') is becoming a statement feature.",
+        "keyElements": ["Plaster, limewash, and wood paneling", "Textured wallpaper (grasscloth, linen)", "Hand-painted murals", "Sculptural ceiling roses and deep cornices"]
+      },
+      {
+        "trend": "Pattern Drenching and Mixing",
+        "description": "A maximalist approach extending patterns from floor to ceiling and across surfaces for an immersive effect.",
+        "keyElements": ["Coordinated prints on walls and upholstery", "Mixing different patterns (stripes, florals, geometrics)", "Continuous stripes wrapping entire spaces"]
+      },
+      {
+        "trend": "Curvy Silhouettes and Waved Edges",
+        "description": "Embracing soft, fluid, and organic aesthetics in furniture and architectural elements, moving away from rigid lines.",
+        "keyElements": ["Kidney-shaped sofas, rounded chaises", "Arched doorways and mirrors", "Scalloped and wavy shapes"]
+      },
+      {
+        "trend": "Mixed Metals and Copper Comeback",
+        "description": "Mixing metal finishes like brass, black, bronze, and nickel for visual interest. Copper is returning for kitchen hardware and worktops.",
+        "keyElements": ["Harmonious combinations of different metals", "Reemergence of aluminum", "Warm metallics (gold, bronze, copper)"]
+      },
+      {
+        "trend": "Statement Lighting",
+        "description": "Lighting as a key design element and work of art, transforming a room's ambiance.",
+        "keyElements": ["Sculptural fixtures and oversized pendants", "Layered lighting (task, accent, ambient)", "Rechargeable and portable lighting"]
+      },
+      {
+        "trend": "Natural Stone Accents",
+        "description": "Using materials like marble, granite, and travertine for an earthy, timeless quality and a sense of luxury.",
+        "keyElements": ["Countertops, flooring, accent walls", "Sculptural side tables and fireplaces", "Shimmering Zellige tile"]
+      },
+      {
+        "trend": "Integrated Discreet Technology",
+        "description": "Technology seamlessly blended into the decor for convenience and enhanced aesthetics.",
+        "keyElements": ["Hidden speakers", "Wireless charging furniture", "Voice-controlled lighting", "Smart thermostats"]
+      }
+    ],
+    "designThemes": {
+      "modern": {
+        "definition": "An interior design style from the early to mid-20th century (1920s-1950s) rooted in modernism, prioritizing functionality, clean lines, and simple forms over ornate decoration.",
+        "historicalFoundations": "Influenced by the German Bauhaus school and Scandinavian design, with a 'form-follows-function' philosophy. The industrial revolution enabled new materials like steel and concrete, allowing for open floor plans.",
+        "characteristics": [
+          {"name": "Open Floor Plans and Clean Lines", "description": "Eliminates barriers between rooms for an open flow. Emphasizes straight or gently curved lines and decluttering."},
+          {"name": "Neutral Color Palettes", "description": "Predominantly features whites, beiges, greys, and browns, with small splashes of bold accent colors."},
+          {"name": "Natural Materials", "description": "Integrates wood, stone, jute, linen, leather, glass, and metal to add richness and texture."},
+          {"name": "Functional and Streamlined Furniture", "description": "Prioritizes purpose and simplicity with clean lines and subtle curves. Often low-height and made from natural materials."},
+          {"name": "Maximization of Natural Light", "description": "Uses large windows, skylights, and light-reflecting surfaces to brighten spaces."},
+          {"name": "Minimal Decor and Simplicity", "description": "Advocates for intentional furniture and sparse decor, creating a clean, uncluttered, and serene environment."},
+          {"name": "Geometric Shapes", "description": "Incorporates shapes like squares and circles in patterns on walls, tiles, and fabrics."},
+          {"name": "Statement Pieces and Abstract Artwork", "description": "Features carefully curated focal points like dramatic light fixtures or large abstract art."}
+        ],
+        "relatedStyles": ["Mid-Century Modern", "Minimalism", "Scandinavian", "Industrial", "Japandi", "Modern Farmhouse"]
+      },
+      "minimalismVsMaximalism": {
+        "overview": "In 2025, these two opposing aesthetics are evolving and converging into a hybrid known as 'minimalist maximalism' or 'soft maximalism', reflecting a cultural shift towards self-expression and individuality.",
+        "minimalism2025": {
+          "description": "Moves beyond stark, cold aesthetics to a softer, more inviting style ('neo-minimalism'). The core principle remains 'less is more', focusing on eliminating the unnecessary to promote tranquility.",
+          "characteristics": ["Warmer neutrals (beige, taupe)", "Organic materials (wood, stone, linen)", "Multifunctional spaces and furniture", "A single, striking focal point ('Statement Minimalism')", "Clean lines and sleek contours", "Quality over quantity"],
+          "psychologicalImpact": "Reduces stress and anxiety by decreasing cognitive load and visual distractions, promoting mental clarity and focus."
+        },
+        "maximalism2025": {
+          "description": "Embraces the 'more is more' philosophy, celebrating abundance, bold choices, and layering to create spaces that tell a personal story.",
+          "characteristics": ["Rich color palettes (jewel tones, wine)", "Eclectic pattern mixing and 'pattern drenching'", "Curated collectibles and 'intentional clutter'", "Dramatic and sculptural lighting", "Layered textures (velvet, silk, leather)", "Return to heritage and craftsmanship"],
+          "psychologicalImpact": "Evokes joy, excitement, and nostalgia by tapping into a love for novelty and stimulation. A form of self-expression that impacts overall happiness."
+        },
+        "minimalistMaximalismHybrid": {
+          "description": "A sophisticated balance of restraint and expression, combining minimalism's clean simplicity with maximalism's expressive elements without overwhelming the space.",
+          "characteristics": ["Neutral base with bold accents", "Sculptural shapes and oversized silhouettes", "Layered textures and subtle patterns", "Curated, meaningful decor", "Blending vintage and modern pieces"],
+          "psychologicalImpact": "Offers the mental clarity of minimalism and the creative stimulation of maximalism, creating a space with both calm and character."
+        }
+      }
+    },
+    "sustainableMaterials": {
+      "overarchingPhilosophies": [
+        {"philosophy": "Biophilic Design", "description": "Integrating natural elements (plants, light, materials) to enhance mental and physical well-being."},
+        {"philosophy": "Sustainable Minimalism", "description": "Advocating for fewer, higher-quality, durable pieces to reduce consumption and waste."},
+        {"philosophy": "Circular Economy and Zero Waste", "description": "Focusing on the reuse, repurposing, and recycling of materials to close the loop and conserve resources."},
+        {"philosophy": "Energy Efficiency", "description": "Reducing environmental footprint through energy-efficient lighting, appliances, and smart home technology."},
+        {"philosophy": "Local and Artisanal Craftsmanship", "description": "Emphasizing locally sourced materials and handcrafted items to reduce emissions and support local economies."}
+      ],
+      "materialTrends": {
+        "recycledAndRepurposed": [
+          {
+            "material": "Foresso ('Timber Terrazzo')",
+            "description": "Crafted from wood waste, wood dust, and a non-toxic binder. Offers the warmth of timber with the resilience of a harder material.",
+            "benefits": "Low-carbon footprint, circular production, durable, long lifespan (up to 50 years)."
+          },
+          {
+            "material": "Marwoolus®",
+            "description": "A composite made from recycled marble dust, wool fibers, and a bi-component binder. Lighter and more flexible than true stone.",
+            "benefits": "Water-repellent, maintains color and quality, bespoke customization."
+          },
+          {
+            "material": "Recycled Metal and Glass",
+            "description": "Used for industrial-style light fixtures and decorative accents.",
+            "benefits": "Durable, versatile, reduces waste."
+          }
+        ],
+        "naturalAndBioBased": [
+          {
+            "material": "Reclaimed Wood",
+            "description": "Used for furniture, flooring, and accent walls. Adds character, history, and authenticity.",
+            "benefits": "Reduces waste, minimizes deforestation, unique aesthetic."
+          },
+          {
+            "material": "Bamboo",
+            "description": "A rapidly growing, renewable resource used for furniture, flooring, and wall coverings.",
+            "benefits": "Strong, sustainable, adapts to various styles."
+          },
+          {
+            "material": "Cork",
+            "description": "A regenerative, durable, and biodegradable material used for flooring and wall panels.",
+            "benefits": "Excellent acoustic and thermal insulation, water-resistant, hypoallergenic."
+          },
+          {
+            "material": "Algae",
+            "description": "A highly renewable resource used as an alternative to petroleum-based inks for textile printing.",
+            "benefits": "Fast-growing, versatile bio-based applications."
+          },
+          {
+            "material": "Mycelium 'Leather'",
+            "description": "A material derived from the root structure of fungi, used for sculptural furniture.",
+            "benefits": "Sustainable leather alternative, organic and tactile appeal."
+          },
+          {
+            "material": "Hempcrete",
+            "description": "A building material made from hemp hurds and lime, used for walls, floors, and insulation.",
+            "benefits": "Lightweight, durable, excellent insulation, non-toxic, mold-resistant."
+          }
+        ],
+        "other": [
+          {
+            "material": "Low-VOC and Non-Toxic Paints",
+            "description": "Plant-based eco-paints with transparent ingredient lists.",
+            "benefits": "Improves indoor air quality, reduces health risks from VOCs."
+          },
+          {
+            "material": "Engineered Panels",
+            "description": "Multi-layered, thermoformed surfaces for kitchens and workspaces, made with low-emission, recyclable processes.",
+            "benefits": "High performance (scratch-resistant, UV-stable), hygienic, eco-conscious."
+          }
+        ]
+      }
+    },
+    "colorPalettes2025": {
+      "overview": "A significant shift towards richer, warmer, and more personal tones, moving away from stark whites and cool grays. The emphasis is on creating nurturing, comforting spaces inspired by nature and historical aesthetics.",
+      "warmAndRichTones": [
+        {
+          "colorGroup": "Deep Reds (Burgundy, Oxblood, Ruby)",
+          "description": "Sophisticated, deep wine reds that bring warmth and create dramatic yet inviting interiors. Behr's 2025 Color of the Year is 'Rumors', a sultry ruby shade.",
+          "applicationTips": "Ideal for intimate spaces like dining rooms or libraries. Pairs beautifully with natural materials like timber or marble."
+        },
+        {
+          "colorGroup": "Chocolate and Caramel Browns",
+          "description": "A major comeback of soft, inviting, and enveloping shades. Pantone's 2025 Color of the Year is 'Mocha Mousse'.",
+          "applicationTips": "Versatile for various styles. Serves as a perfect backdrop to natural materials like wicker, rattan, and warm woods."
+        },
+        {
+          "colorGroup": "Moody Purples (Plum, Aubergine, Violet)",
+          "description": "Vibrant shades that add a touch of luxury, depth, and intrigue. Benjamin Moore's 2025 Color of the Year is 'Cinnamon Slate'.",
+          "applicationTips": "Use as accent walls or statement furniture. Layer with golds or rich greens to enhance richness."
+        }
+      ],
+      "earthInspiredNeutrals": [
+        {
+          "colorGroup": "Earth Tones and Warm Neutrals",
+          "description": "A shift to grounding hues like olive, ochre, and burnt red that offer warmth and comfort.",
+          "applicationTips": "Perfect for creating serene living spaces. Use 'color drenching' for an all-over jewel box effect."
+        },
+        {
+          "colorGroup": "Earthy Terracotta",
+          "description": "Shades derived from natural clay, offering warmth and plaster tones for a grounding, natural feel.",
+          "applicationTips": "Works well for rustic styles. Use as paint color or for wall and floor tiles."
+        },
+        {
+          "colorGroup": "Natural Greens (Verdant, Olive, Seafoam)",
+          "description": "Biophilic-inspired shades that create serene environments. Dark verdant greens add sophistication, while seafoam is restful.",
+          "applicationTips": "Ideal for calming home offices and bathrooms. Dark greens are used on walls, ceilings, and kitchen cabinets."
+        }
+      ],
+      "boldAndPlayfulExpressions": [
+        {
+          "colorGroup": "Bold Primary Colors and Candied Tones",
+          "description": "A comeback of bold reds, blues, and yellows, and electric candied tones for a playful feel.",
+          "applicationTips": "Use in hand-painted murals, bright trims, or custom furniture. Color-drenching creates an impactful look."
+        },
+        {
+          "colorGroup": "Blissful Blues (Mid-tones, Cosmic Cobalt)",
+          "description": "A departure from navy towards warmer mid-tones like cerulean and sky blue, or brilliant ultramarine shades.",
+          "applicationTips": "Color-drenching with blue creates a calming effect. Punchy colors like orange pop against rich blues."
+        },
+        {
+          "colorGroup": "Happy Sunshine Shades (Yellows, Ochre)",
+          "description": "Vibrant yellows (soft, butter, mustard) that are uplifting and refreshing, acting as a sunny alternative to white.",
+          "applicationTips": "Can be color-drenched or used as an accent in a neutral scheme. Pairs well with deep reds."
+        },
+        {
+          "colorGroup": "Plaster Pinks",
+          "description": "Earthy pinks that bring subtle color and softness while keeping spaces bright. Considered a versatile neutral.",
+          "applicationTips": "Perfect for kitchens, bedrooms, and bathrooms. Pairs well with olive greens, browns, or charcoal gray."
+        }
+      ]
+    }
+  }
+}
